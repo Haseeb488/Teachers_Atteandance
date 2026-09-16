@@ -1,0 +1,2 @@
+C:/Users/Haseeb/Downloads/TeachersAttendance-master/TeachersAttendance-master/android/app/.cxx/Debug/932701l3/x86/CMakeFiles/edit_cache.dir
+C:/Users/Haseeb/Downloads/TeachersAttendance-master/TeachersAttendance-master/android/app/.cxx/Debug/932701l3/x86/CMakeFiles/rebuild_cache.dir
